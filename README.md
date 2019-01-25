@@ -7,3 +7,5 @@ Quarantine Calculator for Snow License Manager
 ?q = QUARANTINE Date
 
 Example: http://localhost/index.php?d=30&q=15
+
+![Screenshot](https://i.imgur.com/e5KKta4.png "Example Screenshot")
