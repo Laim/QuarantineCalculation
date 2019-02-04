@@ -10,4 +10,4 @@ Quarantine Calculator for Snow License Manager
 
 Example: http://localhost/index.php?d=30&q=15&?u=60
 
-![Screenshot](https://i.imgur.com/e5KKta4.png "Example Screenshot")
+![Screenshot](https://i.imgur.com/ff2bBxc.png "Example Screenshot")
